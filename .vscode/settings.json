@@ -1,0 +1,26 @@
+{
+  "cSpell.words": [
+    "asociacion",
+    "CAMARA",
+    "cmap",
+    "coor",
+    "efficientdet",
+    "figsize",
+    "fing",
+    "imread",
+    "imshow",
+    "jerarquia",
+    "landmarker",
+    "Landmarker",
+    "mediapipe",
+    "nanos",
+    "NUMEROS",
+    "padx",
+    "pady",
+    "rectangulo",
+    "tflite",
+    "xlabel",
+    "ylabel"
+  ],
+  "python.REPL.enableREPLSmartSend": false
+}
